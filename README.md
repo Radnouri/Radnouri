@@ -33,7 +33,7 @@
   <b>• JoyPlus</b>
   <br>
   <sub>
-Beta version of the event service ( Interactive 2D and 3D animations ).
+Beta version of the event service (Interactive 2D and 3D animations)
  </sub>
   <br><br>
   <a href="https://joyplus-demo.vercel.app/">
@@ -48,7 +48,7 @@ Beta version of the event service ( Interactive 2D and 3D animations ).
   <b>• David</b>
   <br>
   <sub>
-R3F (Three.js,Webgl) example.
+R3F (Three.js,Webgl) example
   </sub>
   <br><br>
   <a href="https://david-demo.vercel.app">
