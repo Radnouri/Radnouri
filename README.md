@@ -33,7 +33,7 @@
   <b>• JoyPlus</b>
   <br>
   <sub>
-  A complete, optimized, minimal, animated & multi-purpose store with 3D product display and customization.
+Beta version of the event service ( Interactive 2D and 3D animations ).
  </sub>
   <br><br>
   <a href="https://joyplus-demo.vercel.app/">
@@ -48,7 +48,7 @@
   <b>• David</b>
   <br>
   <sub>
-  A complete, optimized, minimal, animated & multi-purpose store with 3D product display and customization.
+R3F (Three.js,Webgl) example.
   </sub>
   <br><br>
   <a href="https://david-demo.vercel.app">
