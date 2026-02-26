@@ -4,7 +4,7 @@
 <br>
 
 
-<h2>Selected Projects :</h2>
+<b>Selected Projects :</b>
 
 <div align="center">
 
